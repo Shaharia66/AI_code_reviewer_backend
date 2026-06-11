@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.local
+.env.example
+
+# Keep example file (this is safe to push)
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
